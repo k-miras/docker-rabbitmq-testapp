@@ -1,0 +1,8 @@
+{
+    "READ_Q": "read-queue",
+    "INPUT_ROUTING_KEY": "read-key",
+    "OUTPUT_ROUTING_KEY": "write-key",
+    "INPUT_X": "read-x",
+    "OUTPUT_X": "write-x",
+    "PREFETCH_COUNT": 5
+}

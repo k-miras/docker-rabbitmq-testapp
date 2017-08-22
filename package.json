@@ -1,0 +1,28 @@
+{
+  "name": "test",
+  "version": "0.0.0",
+  "description": "",
+  "homepage": "",
+  "author": {
+    "name": "Miras",
+    "email": "rahimbaevm97@gmailcom"
+  },
+  "files": [
+    "lib"
+  ],
+  "main": "./app/index.js",
+  "scripts": {
+    "start": "node app/index.js"
+  },
+  "private": true,
+  "dependencies": {
+    "amqplib": "^0.4.0",
+    "bunyan": "^1.4.0",
+    "config": "^1.17.1",
+    "events": "^1.1.1",
+    "is-url-superb": "^2.0.0",
+    "needle": "^1.6.0",
+    "request": "^2.81.0",
+    "valid-url": "^1.0.9"
+  }
+}
